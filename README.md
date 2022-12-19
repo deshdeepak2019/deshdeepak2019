@@ -1,16 +1,16 @@
 ![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Desh Deepak Dhruv</h1>
-<h3 align="center">A passionate WEB Developer</h3>
+<h3 align="center">Software Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deshdeepak2019&label=Profile%20views&color=0e75b6&style=flat" alt="deshdeepak2019" /> </p>
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 💬 Ask me about **DataStructures & Algo,MERN**
+- 💬 Ask me about **Data Structures & Algorithms ,MERN**
 
-- 📫 How to reach me **deshdeepak.btech.iet@gmail.com**
+- 📫 How to reach me **deshdeepak2k19@gmail.com**
 
-- 📄 Know about my experiences **<a href="https://drive.google.com/file/d/1yIDzKKxe8vF-htnzcVFsG_LJybzOGA_g/view" target="_blank">Resume</a>**
+- 📄 Know about my experiences **<a href="https://drive.google.com/file/d/17YOeGztO18xUb-re-qVbn-jIGXysSPOZ/view?usp=share_link" target="_blank">Resume</a>**
 
 - ⚡ My **<a href="https://myportfolio8954.netlify.app//" target="_blank">Portfolio</a>**
 
