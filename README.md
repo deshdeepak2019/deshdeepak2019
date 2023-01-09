@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **Data Structures & Algorithms ,MERN**
+- 💬 Ask me about **Data Structures & Algorithms ,Django**
 
 - 📫 How to reach me **deshdeepak2k19@gmail.com**
 
