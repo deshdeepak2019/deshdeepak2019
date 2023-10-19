@@ -14,7 +14,7 @@
 
 - ⚡ My **<a href="https://myportfolio8954.netlify.app//" target="_blank">Portfolio</a>**
 
-- ⚡ Fun fact **Currently I am doing Backend Intern in JAXL Innovations Private Limited!**
+- ⚡ Fun fact **Currently I am working as Backend developer in JAXL Innovations Private Limited!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
