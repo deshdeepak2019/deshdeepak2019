@@ -4,13 +4,13 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deshdeepak2019&label=Profile%20views&color=0e75b6&style=flat" alt="deshdeepak2019" /> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Backend Technologies.**
 
 - 💬 Ask me about **Data Structures & Algorithms ,Django, Django-Rest,Flask**
 
 - 📫 How to reach me **deshdeepak2k19@gmail.com**
 
-- 📄 Know about my experiences **<a href="https://drive.google.com/file/d/17YOeGztO18xUb-re-qVbn-jIGXysSPOZ/view?usp=share_link" target="_blank">Resume</a>**
+- 📄 Know about my experiences **<a href="https://drive.google.com/file/d/1YBHENzvdTtjmUmdWXlBKhESp0jAepeaM/view?usp=sharing" target="_blank">Resume</a>**
 
 - ⚡ My **<a href="https://myportfolio8954.netlify.app//" target="_blank">Portfolio</a>**
 
