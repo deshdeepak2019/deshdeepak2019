@@ -4,17 +4,17 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deshdeepak2019&label=Profile%20views&color=0e75b6&style=flat" alt="deshdeepak2019" /> </p>
 
-- 🌱 I’m currently learning **Backend Technologies.**
+- 🌱 I’m currently learning **Backend Engineering.**
 
-- 💬 Ask me about **Data Structures & Algorithms ,Django, Django-Rest,Flask**
+- 💬 Ask me about **Data Structures & Algorithms ,Python Django, Django-Rest,LLM, Devops , Kubernetes, RAG**
 
 - 📫 How to reach me **deshdeepak2k19@gmail.com**
 
-- 📄 Know about my experiences **<a href="https://drive.google.com/file/d/1YBHENzvdTtjmUmdWXlBKhESp0jAepeaM/view?usp=sharing" target="_blank">Resume</a>**
+- 📄 Know about my experiences **<a href="https://drive.google.com/file/d/1_LZtAKiUhYJcZAxJIwkgZ4sPLFcc6v7H/view?usp=sharing" target="_blank">Resume</a>**
 
 - ⚡ My **<a href="https://myportfolio8954.netlify.app//" target="_blank">Portfolio</a>**
 
-- ⚡ Fun fact **Currently I am working as Backend developer in JAXL Innovations Private Limited!**
+- ⚡ Fun fact **Currently I am working as Backend developer in Aura Technologies!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,12 +31,12 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+<!-- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+</a>  -->
+<!-- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</a>  
+</a>   -->
 <!-- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </a>   -->
